@@ -4,5 +4,6 @@ spring:
     host: smtp.qq.com #发送邮件服务器
     username: 15825992341@163.com #发送邮件的邮箱地址
     password:  YVGQLCGJRPATIDDD #客户端授权码，不是邮箱密码，这个在qq邮箱设置里面自动生成的
-abc:
-  config: 34566
+ipcount:
+  timeSend: 5
+  timeNumber: 10
